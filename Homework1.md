@@ -160,3 +160,4 @@ upd.
 
 >![primer6](Primer6.jpg)
 >>>>>>> sliyanie
+changes 
