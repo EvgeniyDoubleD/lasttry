@@ -116,3 +116,4 @@
 
 > [например](Primer1)
 
+*`git log --oneline`*
